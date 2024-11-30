@@ -78,6 +78,7 @@ namespace ConsoleApp2
 
                         }
                         break;
+
                     case "SCISSORS":
                         if (computer == "ROCK")
                         {
